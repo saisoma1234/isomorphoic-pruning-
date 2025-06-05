@@ -1,0 +1,5 @@
+timm
+fastcore
+tqdm
+wandb
+torch_pruning>=1.4.1
