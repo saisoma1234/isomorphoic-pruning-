@@ -30,4 +30,4 @@ pretrained
 ref
 *.pdf
 wandb
-pretrained
+pretrained.DS_Store
